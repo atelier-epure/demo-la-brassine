@@ -53,7 +53,7 @@ git add . && git commit -m "maj: horaires" && git push
 
 ## À valider avant livraison client
 
-- **Téléphone** `+32 4 123 45 67` et **email** `contact@labrassine.be` sont des valeurs de démo reprises du site Base44 → remplacer par les vraies coordonnées.
+- **Téléphone** `+32 4 123 45 67` et **email** `contact@labrassine.example` sont des valeurs de démo reprises du site Base44 → remplacer par les vraies coordonnées.
 - **Réseaux sociaux** : liens Instagram / Facebook / TikTok actuellement **fictifs** (`labrassine.liege`) → remplacer par les vrais comptes, ou retirer ceux qui n'existent pas.
 - **Photos** : actuellement images Unsplash + 1 visuel généré (repris de la démo). Pour un vrai client, remplacer par ses photos réelles.
 - **Optimisation images** : `hero-1.png` (1.3 Mo), `band-carte.jpg` (790 Ko) et `hero-3.jpg` (400 Ko) gagneraient à être convertis en WebP avant prod (`cwebp -q 82`).

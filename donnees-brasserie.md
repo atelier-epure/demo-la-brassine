@@ -21,7 +21,7 @@
 |---|---|
 | **Adresse** | Rue Roture 47, 4020 Liège (Outremeuse) |
 | **Téléphone** | +32 4 123 45 67 |
-| **Email** | contact@labrassine.be |
+| **Email** | contact@labrassine.example |
 
 ---
 
